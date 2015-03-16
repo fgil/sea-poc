@@ -1,0 +1,1 @@
+The SEA project is a final undergraduation project from students from Escola Politécnica of University of São Paulo. This project is composed by two programs: A steganographic file system simulated on a binary file and a testing tool to evaluate the performance, security and reliability of the system.
